@@ -15,6 +15,18 @@ Now, I am committed to focusing **100% on data analysis**, as I am passionate ab
 # 📫 Contact Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/edgar-j-galvis)
+</div>
+
+<div align="left">
+
+##  🌱 I’m currently learning:
+
+  ###  - Phyton
+  ###  - Power BI
+<br>
+
+## 👯 I’m looking to collaborate on projects that require:
+   ***Data analysis*** in order to guide good decision making. Some specific but **not limiting areas** are: *sales, marketing, customer service in the industries* of ***education, sports, health*** and more.
 
 </div>
 
