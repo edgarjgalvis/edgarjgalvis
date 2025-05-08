@@ -12,10 +12,11 @@ I have analyzed a minimum of **1,500 surveys**, generating approximately **37,50
 
 Now, I am committed to focusing **100% on data analysis**, as I am passionate about using my skills to drive **decision-making in companies**.
 
+# 📫 Contact Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/edgar-j-galvis)
+
 </div>
-
-
-
 
 
 
