@@ -1,4 +1,9 @@
-## Hi there 👋
+## <h1 align="center">Hello I am Edgar J. Galvis 👋</h1>
+
+Junior Data Analyst with over 30 years of experience in commercial and administrative roles, now applying that business foundation to data-driven decision making.
+In my previous role, I led the analysis of over 1,500 student satisfaction surveys, reviewing 37,500 data points across multiple themes and subtopics. I was responsible for cleaning the data, identifying inconsistencies and null values, segmenting responses by class type, and extracting insights that highlighted key strengths and areas for improvement. 
+Using bar charts, pie charts, and trend lines, I presented clear visual summaries to both internal stakeholders and corporate clients. These data-informed recommendations led to service enhancements that strengthened client relationships — resulting in contracts being renewed for up to 10 years.
+
 
 <!--
 **edgarjgalvis/edgarjgalvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
