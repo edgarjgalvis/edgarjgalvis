@@ -14,7 +14,7 @@ Now, I am committed to focusing **100% on data analysis**, as I am passionate ab
 
 # 📫 Contact Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/edgar-j-galvis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/edgar-j-galvis)
 </div>
 
 <div align="left">
