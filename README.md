@@ -15,18 +15,54 @@ Now, I am committed to focusing **100% on data analysis**, as I am passionate ab
 # 📫 Contact Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/edgar-j-galvis)
+
+📧 Email: edgarjgalvis@gmail.com
+
 </div>
 
 <div align="left">
+  
+## 💼 What I Do
 
-##  🌱 I’m currently learning:
+### - 📊 Analyze real datasets using **SQL**, **Python (Pandas, NumPy)**, and **Google BigQuery**
+### - 📈 Design interactive dashboards with **Tableau**
+### - 🧹 Perform **data cleaning, transformation, and visualization** for business insights
 
-  ###  - Phyton
-  ###  - Power BI
 <br>
+
+## 🛠 Technical Skills
+
+- **Languages:** SQL, Python
+- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn
+- **Data Platforms:** Google BigQuery, Microsoft Excel
+- **BI Tools:** Power BI
+- **Version Control:** Git & GitHub
+  
+</div>
+
+<br>
+
+<div align="left">
+
+##  🌱 Currently upskilling with:
+
+  ###   - Google AI Essentials Specialization (Coursera)
+  ###   - Microsoft Power BI Data Analyst Professional Certificate
+  ###   - Microsoft Python Development Professional Certificate- Phyton
+  
+<br>
+
+##  🔍 Featured Projects
+
+- [📁 Bellabeat Case Study](https://github.com/edgarjgalvis/Bellabeat-case-study)  
+  Exploratory analysis of Fitbit data using BigQuery and SQL. Data cleaning, transformation, and business insights generation for a wellness tech company.
+
 
 ## 👯 I’m looking to collaborate on projects that require:
    ***Data analysis*** in order to guide good decision making. Some specific but **not limiting areas** are: *sales, marketing, customer service in the industries* of ***education, sports, health*** and more.
+
+---
+🧠 “Turning raw data into real impact.”
 
 </div>
 
